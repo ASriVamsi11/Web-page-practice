@@ -1,0 +1,46 @@
+body{
+  background-color: #d5e1ef;
+  width: 1440px;
+}
+
+.white-region{
+  width: 280px;
+  height: 430px;
+  background-color: white;
+  border-radius: 5%;
+  position: relative;
+  margin: 140px auto 140px auto;
+}
+
+.image{
+  width: 250px;
+  border-radius: 5%;
+  position: absolute;
+  top:15px;
+  right: 0;
+  bottom: 10px;
+  left: 15px;
+
+}
+
+.font{
+  font-size: 20px;
+  font-family: 'Outfit', sans-serif;
+  position: absolute;
+  top: 260px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: bolder;
+  color: #2a354c;
+}
+
+.font1{
+  font-size: 14px;
+  font-family: 'Outfit', sans-serif;
+  position: absolute;
+  top: 320px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  color: gray;
+}
